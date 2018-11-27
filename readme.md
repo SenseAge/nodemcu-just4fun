@@ -3,3 +3,4 @@ some interesting project that you can run in nodemcu. the article about the proj
 **Chinese only**
 
 if I have other good idea, I will update code and article
+ - [ ] 在使用本方式前，先尝试使用http重定向尝试
